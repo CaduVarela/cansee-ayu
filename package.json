@@ -1,0 +1,21 @@
+{
+  "name": "cansee-ayu",
+  "displayName": "Cansee Ayu",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cansee Ayu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cansee Ayu-color-theme.json"
+      }
+    ]
+  }
+}
