@@ -3,6 +3,22 @@
   "displayName": "Cansee Ayu",
   "description": "",
   "version": "0.0.1",
+  "publisher": "caduvarela",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaduVarela/cansee-ayu"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ayu",
+    "caduvarela",
+    "cansee",
+    "cansee ayu",
+    "ayu theme",
+    "cansee theme",
+    "ayu variation"
+  ],
   "engines": {
     "vscode": "^1.95.0"
   },
